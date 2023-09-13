@@ -1,0 +1,49 @@
+{
+  "ratings": [
+    {
+      "rating": 0,
+      "quantity": 0
+    },
+    {}
+  ],
+  "categories": [
+    {
+      "name": "",
+      "quantity": 0,
+      "lv1": [
+        {
+          "name": "",
+          "quantity": 0
+        }
+      ]
+    },
+    {}
+  ],
+  "brands": [
+    {
+      "name": "",
+      "quantity": 0
+    },
+    {}
+  ],
+  "products": [
+    {
+      "name": "",
+      "description": "",
+      "brand": "",
+      "categories": ["lv0", "lv1", "lv2", "lv3"],
+      "type": "",
+      "price": 0,
+      "price_range": "",
+      "image": "",
+      "url": "",
+      "free_shipping": false,
+      "popularity": 0,
+      "rating": 0,
+      "objectID": "",
+      "category_lvl0": "",
+      "category_lvl1": ""
+    },
+    {}
+  ]
+}
